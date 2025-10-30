@@ -1,1 +1,1 @@
-Procfile
+worker: python app.py
